@@ -25,7 +25,7 @@ export const HERO_DATA = {
     'Associate Full Stack Developer at Ollcode Pvt Ltd — architecting enterprise IoT systems, Spring Boot backends, and React frontends for clients across Singapore & Sri Lanka.',
   email: 'ashenprimal02@gmail.com',
   phone: '076 6094 071',
-  linkedin: 'https://www.linkedin.com/in/primal-fernando',
+  linkedin: 'https://www.linkedin.com/in/primal-fernando-672972231',
   github: 'https://github.com/primm4333',
   resume: '/Primal_Fernando_Resume.pdf',
   location: 'Negombo, Sri Lanka',
